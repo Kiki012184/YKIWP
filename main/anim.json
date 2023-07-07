@@ -1,0 +1,30 @@
+[
+  {
+    "id":"$YKIWP_ware3roof1",
+    "type":"animation",
+    "frames":[
+      {
+        "bmp":"ware3-roof1.png",
+        "count": 2,
+        "w": 64,
+        "copies": 1
+      }
+    ],
+    "frames per animation": 4,
+    "rotation aware": true
+  },
+  {
+    "id":"$YKIWP_ware3roof2",
+    "type":"animation",
+    "frames":[
+      {
+        "bmp":"ware3-roof2.png",
+        "count": 2,
+        "w": 64,
+        "copies": 1
+      }
+    ],
+    "frames per animation": 4,
+    "rotation aware": true
+  }
+]

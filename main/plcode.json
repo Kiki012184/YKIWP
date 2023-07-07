@@ -1,0 +1,224 @@
+[
+  {
+    "id": "$YKIWPA3-0",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA3-1",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof1", "x": 0, "y": -22, "color": {"r": 145, "g": 65, "b": 47}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA3-2",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof1", "x": 0, "y": -22, "color": {"r": 111, "g": 151, "b": 142}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA3-3",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof1", "x": 0, "y": -22, "color": {"r": 17, "g": 38, "b": 99}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA3-4",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof1", "x": 0, "y": -22, "color": {"r": 142, "g": 84, "b": 80}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA4-1",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof2", "x": 0, "y": -22, "color": {"r": 145, "g": 65, "b": 47}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA4-2",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof2", "x": 0, "y": -22, "color": {"r": 111, "g": 151, "b": 142}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA4-3",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof2", "x": 0, "y": -22, "color": {"r": 17, "g": 38, "b": 99}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  },
+  {
+    "id": "$YKIWPA4-4",
+    "type": "industrial",
+    "author": "Yakka,Lobby,JustAnyone",
+    "width": 2,
+    "height": 2,
+    "frames": [
+      {
+        "bmp": "ware3-wall.png",
+        "w": 64,
+        "count": 2,
+        "copies": 1
+      }
+    ],
+    "animation":[
+      {"id": "$YKIWP_ware3roof2", "x": 0, "y": -22, "color": {"r": 142, "g": 84, "b": 80}}
+    ],
+    "level": 1,
+    "people": 20,
+    "build time": 16,
+    "power": -2,
+    "rotation aware": true,
+    "draw ground": true,
+    "needs road": false
+  }
+]
